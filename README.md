@@ -19,7 +19,15 @@ With over a decade of experience, I specialize in building **high-performance, s
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Cloud & DevOps**  
-`AWS (ECS, Fargate, RDS, Route 53, ElastiCache)` &nbsp;&nbsp; `Docker` &nbsp;&nbsp; `GitHub Actions` &nbsp;&nbsp; `Amazon ECR`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-Database-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-DNS-FF9900?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-Caching-5896D3?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+</br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Databases**  
 `PostgreSQL` &nbsp;&nbsp; `DynamoDB` &nbsp;&nbsp; `Aurora Global` &nbsp;&nbsp; `Redis`
