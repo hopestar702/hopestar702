@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Hi%20there,%20I'm%20a%20Backend%20Engineer!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=eb5c2d&height=150&section=header&text=Hi%20there,%20I'm%20a%20Backend%20Engineer!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
 ## 👨‍💻 About me
