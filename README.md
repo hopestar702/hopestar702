@@ -40,9 +40,14 @@ With over a decade of experience, I specialize in building **high-performance, s
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Monitoring & Observability**  
-`Prometheus` &nbsp;&nbsp; `Grafana` &nbsp;&nbsp; `ELK Stack (Elasticsearch, Logstash, Kibana)`
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-000000?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
 
 **Frontend Integration**  
-`React` &nbsp;&nbsp; `WebSocket APIs`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WebSocket API](https://img.shields.io/badge/WebSocket-API-6DB33F?style=for-the-badge&logo=websockets&logoColor=white)
 
 ---
