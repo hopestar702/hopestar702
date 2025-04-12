@@ -30,10 +30,14 @@ With over a decade of experience, I specialize in building **high-performance, s
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Databases**  
-`PostgreSQL` &nbsp;&nbsp; `DynamoDB` &nbsp;&nbsp; `Aurora Global` &nbsp;&nbsp; `Redis`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Aurora Global](https://img.shields.io/badge/Aurora_Global-0176D3?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Messaging & Streaming**  
-`Kafka` &nbsp;&nbsp; `RabbitMQ`
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Monitoring & Observability**  
 `Prometheus` &nbsp;&nbsp; `Grafana` &nbsp;&nbsp; `ELK Stack (Elasticsearch, Logstash, Kibana)`
