@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About me
 
-With over a decade of experience, I specialize in building **high-performance, scalable, and cost-effective backend systems**. Adept at architecting distributed systems and leading end-to-end backend development, I have successfully delivered enterprise-grade solutions across e-commerce, SaaS, and edtech domains.
+I'm a Senior Backend Engineer with a track record of building scalable, high-performance systems across EdTech, e-commerce, and ordering platforms, with deep expertise in cloud-native architectures, microservices, and real-time data pipelines.
 
 ---
 
@@ -12,7 +12,6 @@ With over a decade of experience, I specialize in building **high-performance, s
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,7 +36,6 @@ With over a decade of experience, I specialize in building **high-performance, s
 
 **Messaging & Streaming**  
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Monitoring & Observability**  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
